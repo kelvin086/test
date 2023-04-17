@@ -1,0 +1,24 @@
+Windows Defender Firewall:
+Advantages:
+
+It's a built-in feature of Windows operating system and therefore, comes pre-installed on every Windows computer.
+It's free to use and doesn't require any additional software installation.
+It has a simple and user-friendly interface, making it easy to configure and manage.
+It offers basic protection against inbound and outbound threats by blocking or allowing network traffic based on pre-defined rules.
+Disadvantages:
+
+It may not offer advanced features that are required for enterprise-level security.
+It's not as customizable as other third-party firewalls.
+It may not provide real-time monitoring and protection against emerging threats.
+ZoneAlarm Firewall:
+Advantages:
+
+It offers advanced features such as application control, intrusion detection, and anti-phishing protection, which are not available in Windows Defender Firewall.
+It provides real-time monitoring and protection against emerging threats.
+It has a user-friendly interface and offers a high level of customization to meet specific security requirements.
+It has a free version and a paid version with additional features.
+Disadvantages:
+
+It may slow down the computer's performance due to its resource-intensive nature.
+It may be more expensive than other third-party firewalls.
+It may require more technical knowledge to configure and manage compared to Windows Defender Firewall.
